@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-18T16:30:29.539Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BGP</title>
+    <link href="http://yoursite.com/2020/05/19/BGP/"/>
+    <id>http://yoursite.com/2020/05/19/BGP/</id>
+    <published>2020-05-18T16:24:40.000Z</published>
+    <updated>2020-05-18T16:30:29.539Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;①
+        
+      
+    
+    </summary>
+    
+    
+      <category term="数通" scheme="http://yoursite.com/categories/%E6%95%B0%E9%80%9A/"/>
+    
+    
+      <category term="BGP" scheme="http://yoursite.com/tags/BGP/"/>
+    
+      <category term="端口状态" scheme="http://yoursite.com/tags/%E7%AB%AF%E5%8F%A3%E7%8A%B6%E6%80%81/"/>
+    
+  </entry>
+  
+</feed>
